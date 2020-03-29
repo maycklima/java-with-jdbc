@@ -19,7 +19,7 @@ public class Principal
     {
         DAO dao = new DAO();
         Usuario u = new Usuario();
-        UsuarioDAO uD = new UsuarioDAO();
+        UsuarioDAO uDD = new UsuarioDAO();
         
         System.out.println(dao.conectar());
         
