@@ -5,6 +5,8 @@
  */
 package main;
 
+import javax.swing.JOptionPane;
+
 import db.DAO;
 import model.Usuario;
 import sql.UsuarioDAO;
@@ -21,11 +23,11 @@ public class Principal
         Usuario u = new Usuario();
         UsuarioDAO uD = new UsuarioDAO();
         
-        System.out.println(dao.conectar());
+        //System.out.println(dao.conectar());
+        JOptionPane.showMessageDialog(null, dao.conectar());
         
         //u.setNome("Junio");
-        //u.setSobrenome("César");
-        
+        //u.setSobrenome("César");        
         //uD.cadastrarUsuario(u); 
     }
 }
