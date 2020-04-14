@@ -38,10 +38,10 @@ Desenvolvimento de aplicação java utilizando JDBC
 - Substituição de orientador
 - Desistência de um alunoa
 
-#Certificados
-- Gerar certificado para o aluno
-- Gerar certificado para o orientador
-
 #Declarações
 - Gerar declaração para o aluno
 - Gerar declaração para o orientador
+
+#Certificados
+- Gerar certificado para o aluno
+- Gerar certificado para o orientador
