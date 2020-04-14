@@ -36,7 +36,7 @@ Desenvolvimento de aplicação java utilizando JDBC
 - Registro de ocorrencias dentro do projeto
 - Substituição de aluno
 - Substituição de orientador
-- Desistência de um alunoa
+- Desistência de um aluno
 
 #Declarações
 - Gerar declaração para o aluno
